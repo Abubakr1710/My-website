@@ -13,7 +13,7 @@ profile_pic = current_dir / "assets" / "picture.png"
 
 # --- GENERAL SETTINGS ---
 PAGE_TITLE = "Abubakr Mamajonov"
-PAGE_ICON = ":wave:"
+PAGE_ICON = "📜"
 NAME = "Abubakr Mamajonov"
 DESCRIPTION = """
 Computer Vision | Deep Learning | Machine Learning | Data Science
@@ -26,10 +26,10 @@ SOCIAL_MEDIA = {
     "Facebook": "https://www.facebook.com/abubakr.mamajonov.75",
 }
 PROJECTS = {
-    "🏆 Fire Detection": "https://github.com/Abubakr1710/Fire-Detection",
-    "🏆 Garbage classification": "https://github.com/Abubakr1710/Garbage-Classificator",
-    "🏆 Fashion Project": "https://github.com/Abubakr1710/Fashion-project",
-    "🏆 MNIST Digit classification": "https://github.com/Abubakr1710/CNN-MNIST",
+    "📂 Garbage classification": "https://github.com/Abubakr1710/Garbage-Classificator",
+    "📂 Fire Detection": "https://github.com/Abubakr1710/Fire-Detection",
+    "📂 Fashion Project": "https://github.com/Abubakr1710/Fashion-project",
+    "📂 MNIST Digit classification": "https://github.com/Abubakr1710/CNN-MNIST",
 }
 
 
@@ -77,12 +77,14 @@ st.write(
 - 🏢 **Volunteer** in **Mentoring Program** at [**Vistula University in Warsaw**](https://www.vistula.edu.pl/en) (2022 - present)
 - 🔍 Help for new students from arrivig to start their study.
 - 🔍 Help to new students for documents and legalizetion.
+"""
+)
+st.write("""
 - ✔️ **Accountant** 
 - 🏢 **Metal Decor Business Ltd, Kokand, Uzbekistan, 2018 - 2019** 
 - 🔍 Responsible for pricing new products and organizing night shift of the company. 
 - 🔍 Social responsibility. I have experience working in team.
-"""
-)
+""")
 
 
 # --- SKILLS ---
@@ -104,14 +106,19 @@ st.write('\n')
 st.subheader("Education")
 st.write(
     """
-- 🏢 **Bachelor in Computer Engineering**
+- 👨🏼‍🎓 **Bachelor in Computer Engineering**
 - 🏢 [**Vistula University in Warsaw**](https://www.vistula.edu.pl/en) (2020 - present)
-- ✔️ **Certification of Bootcamp** 
-- 🏢 [**Epicode Global**](https://epicode.com/en/) (Feb, 2022 - Nov, 2022)
-- ✔️ **Upper Secondary Diploma in Exact Science**
-- 🏢 [**Kokand State University**](https://kdu.uz/en/) (2015 - 2019)
 """
 )
+st.write("""
+- ✔️ **Certification of Bootcamp** 
+- 🏢 [**Epicode Global**](https://epicode.com/en/) (Feb, 2022 - Nov, 2022)
+""")
+
+st.write("""
+- ✔️ **Upper Secondary Diploma in Exact Science**
+- 🏢 [Academic Lyceum under Kokand State Pedagogical Institute ](https://kdu.uz/en/) (2015 - 2019)
+""")
 
 
 
