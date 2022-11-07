@@ -26,7 +26,7 @@ SOCIAL_MEDIA = {
     "Facebook": "https://www.facebook.com/abubakr.mamajonov.75",
 }
 PROJECTS = {
-    "📂 Garbage classification": "https://github.com/Abubakr1710/Garbage-Classificator",
+    "📂 Garbage classification": "https://abubakr1710-garbage-classification-app-zd41vy.streamlit.app/",
     "📂 Fire Detection": "https://github.com/Abubakr1710/Fire-Detection",
     "📂 Fashion Project": "https://github.com/Abubakr1710/Fashion-project",
     "📂 MNIST Digit classification": "https://github.com/Abubakr1710/CNN-MNIST",
