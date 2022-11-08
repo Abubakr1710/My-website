@@ -16,7 +16,7 @@ PAGE_TITLE = "Abubakr Mamajonov"
 PAGE_ICON = "📜"
 NAME = "Abubakr Mamajonov"
 DESCRIPTION = """
-Computer Vision | Deep Learning | Machine Learning | Data Science
+Data Analysis |Data Science | Machine Learning | Deep Learning | Compuuter Vision
 """
 EMAIL = "mamajonov1710@gmail.com"
 SOCIAL_MEDIA = {
