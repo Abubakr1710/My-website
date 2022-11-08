@@ -24,7 +24,7 @@ SOCIAL_MEDIA = {
     "GitHub": "https://github.com/Abubakr1710",
     "Twitter": "https://twitter.com/Abubakr1710",
     "Facebook": "https://www.facebook.com/abubakr.mamajonov.75",
-    "Instagram": "https://www.instagram.com/abubakr1710/"
+    "Instagram": "https://www.instagram.com/abubakr_mamajonov"
 }
 PROJECTS = {
     "📂 Garbage classification": "https://abubakr1710-garbage-classification-app-zd41vy.streamlit.app/",
