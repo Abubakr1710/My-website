@@ -27,10 +27,10 @@ SOCIAL_MEDIA = {
     "Instagram": "https://www.instagram.com/abubakr_mamajonov"
 }
 PROJECTS = {
-    "📂 Garbage classification": "https://abubakr1710-garbage-classification-app-zd41vy.streamlit.app/",
-    "📂 Fire Detection": "https://github.com/Abubakr1710/Fire-Detection",
-    "📂 Fashion Project": "https://github.com/Abubakr1710/Fashion-project",
-    "📂 MNIST Digit classification": "https://github.com/Abubakr1710/CNN-MNIST",
+    "📂 Python Libraries": "https://github.com/Abubakr1710/Python-Libraries",
+    "📂 Computer Vision": "https://github.com/Abubakr1710/Computer-Vision",
+    "📂 Machine Learning": "https://github.com/Abubakr1710/Machine-Learning",
+    "📂 Deep Learning": "https://github.com/Abubakr1710/Deep-Learning",
 }
 
 
@@ -118,7 +118,7 @@ st.write("""
 
 st.write("""
 - ✔️ **Upper Secondary Diploma in Exact Science**
-- 🏢 [Academic Lyceum under Kokand State Pedagogical Institute ](https://kdu.uz/en/) (2015 - 2019)
+- 🏢 [Academic Lyceum under Kokand State Pedagogical Institute ](http://www.lyceumkspi.uz/) (2015 - 2019)
 """)
 
 
