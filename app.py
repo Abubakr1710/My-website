@@ -31,6 +31,7 @@ PROJECTS = {
     "📂 Computer Vision": "https://github.com/Abubakr1710/Computer-Vision",
     "📂 Machine Learning": "https://github.com/Abubakr1710/Machine-Learning",
     "📂 Deep Learning": "https://github.com/Abubakr1710/Deep-Learning",
+    "📂 Data Analysis for savollar.islom.uz": "https://github.com/Abubakr1710/Data-Analysis-for-savollar.islom.uz"
 }
 
 
